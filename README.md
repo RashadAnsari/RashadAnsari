@@ -78,4 +78,3 @@
 ### 📱 More apps
 
 - **[Sweatline](https://github.com/RashadAnsari/Sweatline)**: an offline gym coach for iPhone and Android that plans your week and tracks your progress
-

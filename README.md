@@ -75,7 +75,7 @@
 - **[tile38-ha](https://github.com/RashadAnsari/tile38-ha)**: a Docker image that makes the Tile38 geospatial database highly available with Redis Sentinel
 - **[django-pubsub-tasks](https://github.com/RashadAnsari/django-pubsub-tasks)**: a Celery-like task queue for Django on Google Cloud Pub/Sub push subscriptions
 - **[django-terraform-http-backend](https://github.com/RashadAnsari/django-terraform-http-backend)**: a Django app that implements the Terraform HTTP backend for Django
-- **[django-encrypted-fields](https://github.com/RashadAnsari/django-encrypted-fields)**: Django model fields that encrypt their values before they are written to the database and decrypt them when they are read.
+- **[django-encrypted-fields](https://github.com/RashadAnsari/django-encrypted-fields)**: Django model fields that encrypt their values before they are written to the database and decrypt them when they are read
 
 ### 📱 More apps
 

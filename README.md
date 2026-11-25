@@ -69,11 +69,13 @@
 
 ### ⚙️ Infrastructure and libraries
 
-- **[tile38-ha](https://github.com/RashadAnsari/tile38-ha)**: a Docker image that makes the Tile38 geospatial database highly available with Redis Sentinel
-- **[helmet](https://github.com/RashadAnsari/helmet)**: one Helm library chart with the templates every Kubernetes service needs, published to GHCR
-- **[django-pubsub-tasks](https://github.com/RashadAnsari/django-pubsub-tasks)**: a Celery-like task queue for Django on Google Cloud Pub/Sub push subscriptions
 - **[lookups](https://github.com/4lie/lookups)**: fast, in-memory geo lookups in Go, indexed with S2
 - **[go-batch](https://github.com/RashadAnsari/go-batch)**: generic batching in Go that flushes by size or by time
+- **[helmet](https://github.com/RashadAnsari/helmet)**: one Helm library chart with the templates every Kubernetes service needs, published to GHCR
+- **[tile38-ha](https://github.com/RashadAnsari/tile38-ha)**: a Docker image that makes the Tile38 geospatial database highly available with Redis Sentinel
+- **[django-pubsub-tasks](https://github.com/RashadAnsari/django-pubsub-tasks)**: a Celery-like task queue for Django on Google Cloud Pub/Sub push subscriptions
+- **[django-terraform-http-backend](https://github.com/RashadAnsari/django-terraform-http-backend)**: a Django app that implements the Terraform HTTP backend for Django
+- **[django-encrypted-fields](https://github.com/RashadAnsari/django-encrypted-fields)**: Django model fields that encrypt their values before they are written to the database and decrypt them when they are read.
 
 ### 📱 More apps
 
